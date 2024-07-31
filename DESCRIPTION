@@ -1,6 +1,6 @@
 Package: copcor
 LazyLoad: yes
-Version: 2023.8-27
+Version: 2024.7-31
 Title: Correlates of Protection and Correlates of Risk Functions
 Authors@R: c(person("Youyi", "Fong", role = "cre", email = "youyifong@gmail.com"), person("Yiwen", "He", role = "aut", email = "ylu2@scharp.org"), person("Chenchen", "Yu", role = "aut", email = "cyu@scharp.org"), person("Bhavesh", "Borate", role = "aut", email = "bborate@scharp.org"), person("Peter", "Gilbert", role = "aut", email = "pgilbert@fredhutch.org"))
 Depends: R (>= 3.6), kyotil
@@ -10,7 +10,7 @@ Description: Correlates of protection (CoP) and correlates of risk (CoR) study t
 VignetteBuilder: R.rsp
 License: GPL (>= 2)
 NeedsCompilation: no
-Packaged: 2023-08-29 17:19:19 UTC; Youyi
+Packaged: 2024-07-31 22:09:58 UTC; Youyi
 Author: Youyi Fong [cre],
   Yiwen He [aut],
   Chenchen Yu [aut],
@@ -18,4 +18,4 @@ Author: Youyi Fong [cre],
   Peter Gilbert [aut]
 Maintainer: Youyi Fong <youyifong@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-08-30 15:40:04 UTC
+Date/Publication: 2024-07-31 22:30:31 UTC
